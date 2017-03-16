@@ -11,6 +11,7 @@
         <members>FinalJan03Test1</members>
         <members>FinalJan03Test2</members>
         <members>Jul07Apex1</members>
+        <members>Jul13Apex1</members>
         <name>ApexClass</name>
     </types>
 </Package>
