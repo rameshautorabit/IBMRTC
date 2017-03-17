@@ -14,6 +14,14 @@
         <members>Jul13Apex1</members>
         <members>SaiMay13Test1</members>
         <members>SaiMay13Test2</members>
+        <members>agf__ADM_Application</members>
+        <members>agf__ADM_ApplicationApprover</members>
+        <members>agf__ADM_ApplicationApproverTests</members>
+        <members>agf__ADM_ApplicationApprover_TriggerTest</members>
+        <members>agf__ADM_ApplicationException</members>
+        <members>agf__ADM_BackboneController</members>
+        <members>agf__ADM_BackboneControllerTests</members>
+        <members>agf__ADM_BeforeInsertOrUpdate</members>
         <name>ApexClass</name>
     </types>
 </Package>
