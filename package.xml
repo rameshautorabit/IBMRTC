@@ -5,6 +5,7 @@
         <members>ALMAccount</members>
         <members>ALMAccount1</members>
         <members>ALMFeb1</members>
+        <members>ALMFeb100</members>
         <members>ALMFeb2</members>
         <members>CancelDeploy1</members>
         <members>CancelDeploy2</members>
@@ -23,5 +24,10 @@
         <members>agf__ADM_BackboneControllerTests</members>
         <members>agf__ADM_BeforeInsertOrUpdate</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ParallelDepTest12__c</members>
+        <members>ParallelTest__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
